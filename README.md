@@ -7,21 +7,8 @@
 </p>
 
 <p align="center">
-  <!-- SVG Logo instead of external image -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="600">
-    <rect width="800" height="400" fill="#1a1a2e" rx="20"/>
-    <text x="400" y="180" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#f72c3f" text-anchor="middle" letter-spacing="5">
-      PLAYER
-    </text>
-    <text x="400" y="270" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="#00ff00" text-anchor="middle" letter-spacing="10">
-      MD
-    </text>
-    <text x="400" y="330" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle">
-      WhatsApp Multi-Device Bot
-    </text>
-    <circle cx="400" cy="60" r="30" fill="#f72c3f" opacity="0.3"/>
-    <rect x="100" y="350" width="600" height="4" fill="#f72c3f" rx="2"/>
-  </svg>
+  <!-- New Image URL -->
+  <img src="https://files.catbox.moe/oqq19x.jpg" width="600px"/>
 </p>
 
 <p align="center">
